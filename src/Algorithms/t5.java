@@ -1,7 +1,7 @@
 package Algorithms;
 
 public class t5 {
-    
+
     //动态规划解法
     public static String longestPalindrome(String s) {
         //记录子串是否是回文
