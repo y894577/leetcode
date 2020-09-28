@@ -15,8 +15,8 @@ public class t15 {
         for (int i = 0; i < nums.length; i++) {
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-            for (int j = i; j < nums.length; j++) {
-                if (j > i + 1 && j < nums.length - 1 && nums[j] == nums[j + 1])
+            for (int j = i + 1; j < nums.length; j++) {
+                if (j < nums.length - 1 && nums[j] == nums[j + 1])
                     continue;
                 int sum = -1 * (nums[i] + nums[j]);
                 int mid = findMid(i, j, nums, sum);
@@ -46,7 +46,7 @@ public class t15 {
     }
 
     public static void main(String[] args) {
-        int[] num = {-1,-1,2};
+        int[] num = {-1, -1, 2};
         System.out.println(threeSum(num));
     }
 }
