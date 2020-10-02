@@ -1,14 +1,7 @@
 package Algorithms;
 
 //两数相加
-class ListNode {
-    int val;
-    ListNode next;
 
-    ListNode(int x) {
-        val = x;
-    }
-}
 
 class t2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
