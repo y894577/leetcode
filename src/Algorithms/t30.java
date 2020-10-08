@@ -22,7 +22,7 @@ public class t30 {
 
         int start = 0;
         int end = start + wordLength;
-        
+
         //记录初始指针，方便回退
         int pin = start;
         while (end <= s.length()) {
