@@ -1,6 +1,5 @@
 
 *.class
-*.class
-*.class
-*.class
-*.class
+
+/out
+

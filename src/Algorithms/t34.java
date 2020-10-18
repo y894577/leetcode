@@ -40,9 +40,11 @@ public class t34 {
         return flag ? l : r;
     }
 
+
     public static void main(String[] args) {
-        int[] nums = {1};
-        int target = 1;
+        int[] nums = {1, 2, 4, 5};
+        int target = 3;
         System.out.println(Arrays.toString(searchRange(nums, target)));
+
     }
 }
