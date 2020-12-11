@@ -8,36 +8,31 @@ import java.util.Stack;
 public class t71 {
     public static String simplifyPath(String path) {
         StringBuilder res = new StringBuilder();
-        Stack<Character> stack = new Stack<>();
-        stack.push(path.charAt(0));
-        for (int i = 1; i < path.length(); i++) {
-            if (path.charAt(i) == '/') {
-                if (stack.peek() != '/')
-                    stack.push(path.charAt(i));
-            }
+        Stack<String> stack = new Stack<>();
+        String[] split = path.split("/");
 
-            if (path.charAt(i) == '.') {
-                while (stack.peek() != '/')
+        for (int i = 0; i < split.length; i++) {
+            if (split[i].equals("..")) {
+                if (!stack.isEmpty())
                     stack.pop();
-            }
-
-            if (path.charAt(i) != '/' && path.charAt(i) != '.') {
-//                if (stack.peek() == '/')
-                stack.push(path.charAt(i));
+            } else if (!split[i].equals(".") && !split[i].isEmpty()) {
+                stack.push(split[i]);
             }
         }
         if (stack.isEmpty())
             return res.append('/').toString();
 
+
         while (!stack.isEmpty()) {
-            res.append(stack.pop());
+            res.insert(0, stack.pop());
+            res.insert(0, "/");
         }
-        res.reverse();
+
         return res.toString();
     }
 
     public static void main(String[] args) {
-        String path = "/home//foo/";
+        String path = "/../";
         System.out.println(simplifyPath(path));
     }
 }
