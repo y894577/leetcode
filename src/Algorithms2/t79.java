@@ -1,7 +1,5 @@
 package Algorithms2;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
 public class t79 {
     char[][] board;
     String word;
