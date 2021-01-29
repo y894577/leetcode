@@ -13,7 +13,7 @@ public class t118 {
                     list.add(1);
                 else {
                     List<Integer> front = result.get(i - 1);
-                    list.add(front.get(j) + front.get(j + 1));
+                    list.add(front.get(j) + front.get(j - 1));
                 }
             }
             result.add(list);
