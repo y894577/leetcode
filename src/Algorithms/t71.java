@@ -1,8 +1,5 @@
 package Algorithms;
 
-import com.sun.javafx.scene.control.skin.IntegerFieldSkin;
-
-import java.util.Arrays;
 import java.util.Stack;
 
 public class t71 {
