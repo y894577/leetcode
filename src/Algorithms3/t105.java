@@ -8,6 +8,7 @@ public class t105 {
     int inorder[];
     Map<Integer, Integer> inorderMap = inorderMap = new HashMap<>();;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+
         this.preorder = preorder;
         this.inorder = inorder;
         int n = preorder.length;
