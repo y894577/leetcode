@@ -1,19 +1,16 @@
-package TopInterviewQuestionsEasy.array;
+package Algorithms3;
 
-
-public class singleNumber {
-    //异或运算
+public class t136 {
     public static int singleNumber(int[] nums) {
-        int n = 0;
+        int result = 0;
         for (int i = 0; i < nums.length; i++) {
-            n ^= nums[i];
+            result = result ^ nums[i];
         }
-        return n;
+        return result;
     }
 
-
     public static void main(String[] args) {
-        int[] nums = {2, 2, 3, 5, 5, 3, 1};
+        int[] nums = {2, 2, 3, 2};
         System.out.println(singleNumber(nums));
     }
 }
