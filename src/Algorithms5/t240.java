@@ -6,7 +6,6 @@ public class t240 {
             return false;
         int row = matrix.length - 1;//行数
         int col = 0;//列数
-        boolean change = false;
         while (row >= 0 && col <= matrix[0].length - 1) {
             if (matrix[row][col] < target)
                 col++;
