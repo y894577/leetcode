@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/Algorithms/leetcode/editor/cn/t4.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Algorithms/leetcode/editor/cn/t4.java" />
+              <option name="questionId" value="4" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t144.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t144.java" />
+              <option name="questionId" value="144" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t147.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t147.java" />
+              <option name="questionId" value="147" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t165.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t165.java" />
+              <option name="questionId" value="165" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t41.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t41.java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t60.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t60.java" />
+              <option name="questionId" value="60" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t65.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t65.java" />
+              <option name="questionId" value="65" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t68.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t68.java" />
+              <option name="questionId" value="68" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t72.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t72.java" />
+              <option name="questionId" value="72" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t76.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/Template/leetcode/editor/cn/t76.java" />
+              <option name="questionId" value="76" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/template/leetcode/editor/cn/t42.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/template/leetcode/editor/cn/t42.java" />
+              <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[41].java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[41].java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/t41.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/t41.java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/t42.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/private/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/t42.java" />
+              <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[137]只出现一次的数字 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[137]只出现一次的数字 II.java" />
+              <option name="questionId" value="137" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[1]两数之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[1]两数之和.java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java" />
+              <option name="questionId" value="34" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+              <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[41]缺失的第一个正数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[41]缺失的第一个正数.java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[60]排列序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[60]排列序列.java" />
+              <option name="questionId" value="60" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[68]文本左右对齐.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[68]文本左右对齐.java" />
+              <option name="questionId" value="68" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[7]整数反转.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[7]整数反转.java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java" />
+              <option name="questionId" value="80" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[97]交错字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[97]交错字符串.java" />
+              <option name="questionId" value="97" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/z7/5h51gs5s6lq5td_rj1vd7rdr0000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java" />
+              <option name="questionId" value="98" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
